@@ -45,11 +45,12 @@ The database contains the following tables:
 ## ER Diagram
 
 Below is the Entity-Relationship diagram representing the relationships between **Books**, **Members**, and **Loans**.
-[![ER Diagram](ER-diagram.png)](https://github.com/sheshbazzarr/Database/tree/main/Book_Loan%20db)
+
+![ER Diagram](ER-diagram.png)
 
 ## Database SQL File
 
-The `database.sql` file contains all necessary SQL statements to:
+The `book_loan.sql` file contains all necessary SQL statements to:
 - Create the database.
 - Create tables.
 - Insert sample data.
