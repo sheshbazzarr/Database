@@ -45,8 +45,7 @@ The database contains the following tables:
 ## ER Diagram
 
 Below is the Entity-Relationship diagram representing the relationships between **Books**, **Members**, and **Loans**.
-
-![ER Diagram](ER-diagram.png)
+[![ER Diagram](ER-diagram.png)](https://github.com/sheshbazzarr/Database/tree/main/Book_Loan%20db)
 
 ## Database SQL File
 
